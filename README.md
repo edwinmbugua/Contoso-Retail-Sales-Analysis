@@ -22,3 +22,6 @@ How well can we improve the sales in determining which products get recommended 
 3. Increase the number of states in the North America Spring promotion with a focus on physical store and reseller store visit especially for the Old-Adults especially      on weekends.
 4. Contoso Carrying Case sells more during the North America Holiday promotion it would be nice to increase the areas covered as it takes place in one state only.
 5. Introduce Christmas festive period product offering towards the end of the year to increase sales.
+
+project Presentation Link:https://medium.com/@edumbugua/using-data-analytics-for-contosos-retail-sales-strategy-9aa034c2fb17
+Visualization Link  : https://www.novypro.com/project/retail-sales-analysis-2
