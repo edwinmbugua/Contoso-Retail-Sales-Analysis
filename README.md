@@ -1,4 +1,4 @@
-# Contoso-Retail-Sales-Analysis for it's sales strategy.
+# Contoso-Retail-Customer-Analysis and Segmentation for it's sales strategy.
 
 The objective of this task was to help a retail store make a data driven sales strategy based on it’s sales records over the years.
 
@@ -6,8 +6,12 @@ The objective of this task was to help a retail store make a data driven sales s
 
 The Contoso BI Demo dataset is used to demonstrate DW/BI functionalities across the entire Microsoft Office product family. This dataset includes C-level, sales/marketing, IT, and common finance scenarios for the retail industry and support map integration. In addition, this dataset offers large volumes of transactions from OLTP and well-structured aggregations from OLAP, along with reference and dimension data.
 
-## Problem Definition
-How well can we improve the sales in determining which products get recommended to customers given their profile and purchasing behavior?
+### Objective
+Customer personality helps a business to modify its product based on its target customers from different types of customer segments. For example, instead of spending money to market a new product to every customer in the company's database, a company can analyze which customer segment is most likely to buy the product and then market the product only on that particular segment.
+### Business Questions
+What are the characteristics of customers segments ?
+What are the shopping habits of the different customer segments?
+What are the sales opportunities across the different segments?
 
 ## Summary
 
